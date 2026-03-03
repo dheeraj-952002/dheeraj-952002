@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Dheeraj 👋
 
-<!--
-**dheeraj-952002/dheeraj-952002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst  
+📊 Turning Data into Actionable Business Insights  
+📈 Interested in Business Analytics, Data Visualization & Statistical Analysis  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+
+### 🗄️ Databases & Querying
+- MySQL
+- SQL (Joins, Aggregations, Subqueries, Group By, Data Analysis)
+
+### 📊 Data Analysis & Visualization
+- Excel (Data Cleaning, Pivot Tables, Dashboards)
+- Power BI
+- Tableau
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+### 📈 Statistical Analysis
+- Descriptive Statistics
+- Hypothesis Testing
+- Correlation Analysis
+- Trend Analysis
+- Data Distribution Analysis
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 HighCloud Airlines Operations Analysis
+- Cleaned and transformed raw airline dataset using Excel.
+- Performed data analysis using MySQL queries.
+- Built interactive Excel dashboard using pivot tables.
+- Generated insights on passenger trends and freight performance.
+
+🔗 [View Project](https://github.com/dheeraj-952002/HighCloud-Airlines-Analysis)
+
+---
+
+📫 Connect with me on LinkedIn
