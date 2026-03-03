@@ -35,7 +35,7 @@
 - Built interactive Excel dashboard using pivot tables.
 - Generated insights on passenger trends and freight performance.
 
-🔗 [View Project](https://github.com/dheeraj-952002/HighCloud-Airlines-Analysis)
+🔗 [View Project](https://github.com/dheeraj-952002/HIghCloud-Airlines-Dashboard)
 
 ---
 
