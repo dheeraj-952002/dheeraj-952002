@@ -10,10 +10,10 @@
 
 ### 🗄️ Databases & Querying
 - MySQL
-- SQL (Joins, Aggregations, Subqueries, Group By, Data Analysis)
+- SQL (Joins, Aggregations, Subqueries, Group By, having, window functions, Data Analysis)
 
 ### 📊 Data Analysis & Visualization
-- Excel (Data Cleaning, Pivot Tables, Dashboards)
+- Excel (Data Cleaning, Vlookup, Xlookup, Index-Match, ETL, Pivot Tables, Power Query, Dashboards)
 - Power BI
 - Tableau
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
