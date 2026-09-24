@@ -1,42 +1,75 @@
 # Hi, I'm Dheeraj 👋
 
-🎯 Aspiring Data Analyst  
-📊 Turning Data into Actionable Business Insights  
-📈 Interested in Business Analytics, Data Visualization & Statistical Analysis  
+### Data Engineering Intern | SQL | Python | Snowflake | dbt | Airflow | Talend
 
----
+I'm a Data Engineering Intern at Greenfield Analytics, working with
+ETL workflows, API-based data ingestion, Talend, Snowflake, SQL,
+and dbt.
 
-## 🔧 Technical Skills
+I'm interested in building reliable data pipelines, data warehouses,
+and analytics-ready data platforms.
 
-### 🗄️ Databases & Querying
-- MySQL
-- SQL (Joins, Aggregations, Subqueries, Group By, having, window functions, Data Analysis)
+## 🛠️ Technical Skills
 
-### 📊 Data Analysis & Visualization
-- Excel (Data Cleaning, Vlookup, Xlookup, Index-Match, ETL, Pivot Tables, Power Query, Dashboards)
-- Power BI
-- Tableau
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+**Languages:** Python, SQL
 
-### 📈 Statistical Analysis
-- Descriptive Statistics
-- Hypothesis Testing
-- Correlation Analysis
-- Trend Analysis
-- Data Distribution Analysis
+**Data Engineering:** ETL, ELT, Data Pipelines, Data Modeling
 
----
+**Data Warehousing:** Snowflake
 
-## 📂 Featured Projects
+**Transformation:** dbt
 
-### 🚀 HighCloud Airlines Operations Analysis
-- Cleaned and transformed raw airline dataset using Excel.
-- Performed data analysis using MySQL queries.
-- Built interactive Excel dashboard using pivot tables.
-- Generated insights on passenger trends and freight performance.
+**Orchestration:** Apache Airflow
 
-🔗 [View Project](https://github.com/dheeraj-952002/HIghCloud-Airlines-Dashboard)
+**ETL & Integration:** Talend, REST APIs
 
----
+**Databases:** PostgreSQL, MySQL
 
-📫 Connect with me on LinkedIn
+**Analytics:** Power BI, Excel
+
+**Other:** Git, Docker, JSON
+
+## 🚀 Featured Projects
+
+### 🚕 NYC Taxi Data Engineering Pipeline
+
+Python • Snowflake • dbt • Airflow • SQL
+
+End-to-end data engineering pipeline for NYC Taxi and weather data,
+including data ingestion, validation, Snowflake warehousing,
+dbt transformations, and Airflow orchestration.
+
+### 🏏 IPL Cricket Data Engineering Pipeline
+
+Python • JSON • PostgreSQL • SQL
+
+Processed IPL match data from Cricsheet for the 2024, 2025, and
+2026 seasons and transformed semi-structured JSON data into
+relational datasets.
+
+### 🏥 Hospital EHR Data Engineering & ETL
+
+Python • Pandas • MySQL • SQLAlchemy
+
+Built an ETL workflow using a 15-table Hospital EHR dataset,
+including data profiling, transformation, validation, and loading.
+
+### 🛒 Olist E-commerce Data Analytics
+
+Python • SQL • Pandas • Power BI
+
+Analyzed e-commerce data to explore customers, orders, products,
+payments, and reviews.
+
+## 📚 Currently Learning
+
+- Advanced Data Engineering
+- Apache Airflow
+- dbt
+- Snowflake
+- AWS
+- Data Pipeline Orchestration
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/dheeraj952002
